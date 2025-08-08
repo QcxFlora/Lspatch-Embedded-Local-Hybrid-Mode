@@ -9,7 +9,7 @@ Implementation Approach for Embedded-Local Hybrid Mode
 
 <div align="center">
 
-[![github下载](https://img.shields.io/badge/github-下载-informational?logo=github)](本地集成模式教程.zip) 
+[![github下载](https://img.shields.io/badge/github-教程下载-informational?logo=github)](本地集成模式教程.zip) 
 [![License](https://img.shields.io/github/license/QcxFlora/Lspatch-Embedded-Local-Hybrid-Mode?label=License)](https://choosealicense.com/licenses/gpl-3.0/)
 
 <div align="left">
