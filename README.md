@@ -3,6 +3,7 @@ Implementation Approach for Embedded-Local Hybrid Mode
 
 
 <div align="left">
+
 # 基于Lspatch集成模式修改从类本地模块加载机制的修改教程
 ## 新一代修补方式。
 <div>
