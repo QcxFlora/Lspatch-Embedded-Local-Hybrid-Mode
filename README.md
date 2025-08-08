@@ -8,6 +8,7 @@ Implementation Approach for Embedded-Local Hybrid Mode
 <div>
 
 <div align="center">
+
 [![github下载](https://img.shields.io/badge/github-下载-informational?logo=github)](https://github.com/dotcog/Loxposed/releases) 
 [![License](https://img.shields.io/github/license/QcxFlora/Loxposed?label=License)](https://choosealicense.com/licenses/gpl-3.0/)
 <div>
