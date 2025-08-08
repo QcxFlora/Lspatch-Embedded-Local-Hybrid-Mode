@@ -6,13 +6,13 @@ Implementation Approach for Embedded-Local Hybrid Mode
 
 # 基于Lspatch集成模式修改从类本地模块加载机制的修改教程
 ## 新一代修补方式。
-<div>
 
 <div align="center">
 
 [![github下载](https://img.shields.io/badge/github-下载-informational?logo=github)](https://github.com/dotcog/Loxposed/releases) 
 [![License](https://img.shields.io/github/license/QcxFlora/Loxposed?label=License)](https://choosealicense.com/licenses/gpl-3.0/)
-<div>
+
+<div align="left">
 
 # 简介！🔧
 ## 本方法是基于Lspatch集成模式修补开发的修补补丁，使用该补丁，能让模块以近似本地模式的方式运行，效果极其强大，一次修改，永远不用再打开lspatch也能实时更新应用内的模块，以及对生效的模块更替。
